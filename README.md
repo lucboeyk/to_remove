@@ -1,2 +1,2 @@
-# to_remove
+# To_remove
 Demo repository for training
